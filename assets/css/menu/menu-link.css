@@ -1,0 +1,19 @@
+.menu__link{
+
+    color:#808080;
+    margin-left: 1.5rem;
+    text-decoration: none;
+    text-transform: lowercase;
+ }
+ 
+ .menu__link:hover{
+ 
+    text-decoration: underline;
+ }
+ 
+ .--ligado{
+ 
+    color: #333333;
+    font-weight:bold;
+ 
+ }
